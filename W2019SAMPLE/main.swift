@@ -97,8 +97,20 @@ print(x0, x1, x2)
 var (_, xn) = q
 print(xn)
 
+var 😎="hello"
 
+print(😎)
 
+var t0 = (10, 20, 30)
+if(p == t0){
+    print("same")
+}
+else{
+    print("not same")
+}
+
+//not valid
+//var t1 = t0  - p
 
 
 
